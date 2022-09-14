@@ -56,3 +56,9 @@ packages:
   - luci-app-serverchan
   - luci-app-transmission
   - luci-app-jd-dailybonus
+  - luci-app-ssr-plus
+  - luci-app-ddns
+  - luci-app-ddnsto
+  - luci-app-wrtbwmon
+  - luci-app-frpc
+  - luci-app-frps
